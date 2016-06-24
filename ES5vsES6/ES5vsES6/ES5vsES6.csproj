@@ -103,6 +103,7 @@
     <Content Include="ES5\module.js" />
     <Content Include="ES5\parameter.js" />
     <Content Include="ES5\templateLiterals.js" />
+    <Content Include="ES6\builtinMethods.js" />
     <Content Include="ES6\class.js" />
     <Content Include="ES6\contant.js" />
     <Content Include="ES6\function.js" />
